@@ -10,7 +10,7 @@ A stunning 3D interactive portfolio website showcasing my skills as a **Web Deve
 
 ## 🌐 Live Demo
 
-🔗 **Visit Website:** [https://tahirumarbhat2006-beep.github.io](designbytahir.netlify.app)
+🔗 **Visit Website:** [designbytahir.netlify.app](designbytahir.netlify.app)
 
 ---
 
