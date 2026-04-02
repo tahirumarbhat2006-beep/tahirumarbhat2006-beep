@@ -8,9 +8,6 @@ A stunning 3D interactive portfolio website showcasing my skills as a **Web Deve
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Visit Website:** [designbytahir.netlify.app](designbytahir.netlify.app)
 
 ---
 
